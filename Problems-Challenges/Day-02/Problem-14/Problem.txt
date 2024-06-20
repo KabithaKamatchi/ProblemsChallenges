@@ -1,0 +1,8 @@
+﻿
+14.Write a program in C# that requests an integer x from the user and print the result of adding it to the square.
+
+
+Input:
+		2
+Output:
+		2x2= 4

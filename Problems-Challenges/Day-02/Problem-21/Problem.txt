@@ -1,0 +1,11 @@
+﻿
+20.Write a C# program to ask the user for three numbers (a, b, c).
+	display the result of (a+b)*c and the result of a * c + b*c.
+
+Input:
+		2
+		4
+		2
+Output:
+		12
+		12

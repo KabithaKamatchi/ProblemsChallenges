@@ -1,0 +1,12 @@
+﻿
+36.Create a program in C# to calculate how many digits has a positive integer.
+
+If the user enters a negative integer, the program must show a warning message, and proceed with the equivalent positive number.
+
+Input:
+		112
+		-5345
+Output:
+		2 digits
+		(Warning: it is a negative number)
+		4 digits

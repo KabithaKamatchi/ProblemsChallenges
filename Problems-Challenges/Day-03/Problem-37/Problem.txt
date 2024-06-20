@@ -1,0 +1,15 @@
+﻿
+37.Create a C# program that calculates a student's grade from an integer. Ask the user for a number (x) and answer the following:
+
+10 - A+
+9 - A
+7,8 - B
+6 - C
+5 - E
+0,4 - F
+Use the switch, break and default instruction of C#.
+
+Input: 
+		10
+Output:
+		A+

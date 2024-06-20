@@ -1,0 +1,9 @@
+﻿
+26. Write a program in C # that asks for three numbers (x, y, z) and display the greatest one.
+
+Input:
+		6
+		12
+		19
+Output:
+		19
