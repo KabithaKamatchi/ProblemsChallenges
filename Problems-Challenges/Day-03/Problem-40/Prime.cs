@@ -7,7 +7,7 @@ public class CalculatePrime
 		Console.WriteLine("Enter the FirstInteger: ");
 		int nFirstInteger = int.Parse(Console.ReadLine());
 
-		for(int i = 2;  i < nFirstInteger; i++)
+		for(int i = 2;  i < 3; i++)
 		{
 			if(nFirstInteger % 2 == 0)
 			{

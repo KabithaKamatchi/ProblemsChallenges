@@ -37,6 +37,15 @@ using ProgramOutput;
 using Product;
 using AbsoluteProgram;
 using PrimeProgram;
+using DigitProgram;
+using DescendingProgram;
+using VowelsSwitch;
+using FunctionEquation;
+using TriangleProgram;
+using TriangleNE;
+using RightAngleTriangle;
+using AlphabetProgram;
+using ConditionalProgram;
 
 
 //SayingHello.Solution1();
@@ -78,6 +87,14 @@ using PrimeProgram;
 //ProductNumber.Solution();
 //Absolute.Solution();
 //CalculatePrime.Solution();
-
-
+//Helper.Demo1();
+//DigitNumber.Solution();
+//OddNumber.Solution();
+//Vowel.Solution();
+//Values.Solution();
+//Triangle.Solution();
+//NorthEastTriangle.Solution();
+//RightTriangle.Solution();
+//CharAlphabet.Solution();
+Conditional.Solution();
 

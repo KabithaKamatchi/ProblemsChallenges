@@ -7,6 +7,6 @@ Input:
 		112
 		-5345
 Output:
-		2 digits
+		3 digits
 		(Warning: it is a negative number)
 		4 digits

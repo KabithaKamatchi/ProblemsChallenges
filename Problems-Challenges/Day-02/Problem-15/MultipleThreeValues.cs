@@ -14,7 +14,7 @@ public  class MultipleThreeValues
 		Console.WriteLine("Enter the ThirdValue: ");
 		int nThirdValue = int.Parse(Console.ReadLine());
 
-		int nProduct = (nFirstValue * nSecondValue * nThirdValue);
+		int nProduct = nFirstValue * nSecondValue * nThirdValue;
 
 		Console.WriteLine($"Multiplication of three Factors: {nProduct} ");
 

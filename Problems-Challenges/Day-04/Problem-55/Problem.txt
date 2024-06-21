@@ -1,0 +1,15 @@
+﻿
+55. Create a C# program which asks the user for two numbers and answers, using the conditional operator (?), the following:
+
+If the first number is positive
+If the second number is positive
+If they are both positive
+
+
+Input :
+		6
+		4
+Output: 
+		A is positive                                
+		B is positive                               
+		Both are positive

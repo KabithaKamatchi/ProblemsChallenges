@@ -18,6 +18,17 @@ namespace Library2
 		public static  void Demo1()
 		{
 			Console.WriteLine("hello");
+
+			double baseNumber = 2;
+			double exponent = 3;
+			double result = Math.Pow(baseNumber, exponent); 
+			Console.WriteLine(result);
+
+
+			double x = 5.0;
+			double dResult = Math.Exp(x);
+			Console.WriteLine("e^5 = " + dResult);
+
 		}
 	}
 }
