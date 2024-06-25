@@ -46,6 +46,20 @@ using TriangleNE;
 using RightAngleTriangle;
 using AlphabetProgram;
 using ConditionalProgram;
+using NumberException;
+using BooleanProgram;
+using PatternProgram;
+using InvertedPattern;
+using PyramidProgram;
+using RightTiangleProgram;
+using SquarePattern;
+using HollowSquarePattern;
+using LeftTrianglePattern;
+using CharacterPyramidPattern;
+using ReverseProgram;
+
+
+
 
 
 //SayingHello.Solution1();
@@ -91,10 +105,23 @@ using ConditionalProgram;
 //DigitNumber.Solution();
 //OddNumber.Solution();
 //Vowel.Solution();
-//Values.Solution();
+//MathematicalProgram.Solution();
 //Triangle.Solution();
 //NorthEastTriangle.Solution();
 //RightTriangle.Solution();
 //CharAlphabet.Solution();
-Conditional.Solution();
-
+//Conditional.Solution();
+//ExceptionProgram.Solution();
+//PrintingMethods.Solution2();
+//CalculateBoolean.Solution();
+//Patterns.Solution();
+//InvertedRightTriangle.Solution();
+//Pyramid.Solution();
+//RightAlignedTriangle.Solution();
+//SquareProgram.Solution();
+//SquareMiddleGap.Solution();
+//HollowSquare.Solution();
+//LeftTriangle.Solution();
+//CharacterPyramid.Solution();
+//ReverseOrder.Solution();
+EvenNumbers.Solution();

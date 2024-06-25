@@ -1,6 +1,6 @@
 ﻿namespace FunctionEquation;
 
-public class Values
+public class MathematicalProgram
 {
 	public static void Solution()
 	{

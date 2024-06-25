@@ -1,0 +1,11 @@
+﻿
+Input : Enter the integer.
+
+
+output : 
+
+            5
+           55
+          555
+         5555
+        55555

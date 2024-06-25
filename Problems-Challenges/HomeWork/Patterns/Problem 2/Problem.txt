@@ -1,0 +1,12 @@
+﻿
+Input :
+		Enter the Integer.
+
+Output : 
+		
+		5 5 5 5 5
+		5 5 5 5
+		5 5 5
+		5 5
+		5
+

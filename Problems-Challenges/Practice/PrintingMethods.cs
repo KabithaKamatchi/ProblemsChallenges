@@ -34,6 +34,16 @@ namespace ProgramOutput
 			int b = 10;
 			Console.WriteLine(String.Format("The sum of {0} and {1} is {2}", a,b, a + b));
 
+
+			int number = 12345;
+			double value = 1234.5678;
+			DateTime date = DateTime.Now;
+
+			Console.WriteLine(number.ToString("D"));   // Output: 12345 (Decimal format)
+			Console.WriteLine(value.ToString("F2"));   // Output: 1234.57 (Fixed-point format with 2 decimal places)
+			Console.WriteLine(date.ToString("d"));     // Output: 6/24/2024 (Short date format)
+
+
 		}
 
 	}
