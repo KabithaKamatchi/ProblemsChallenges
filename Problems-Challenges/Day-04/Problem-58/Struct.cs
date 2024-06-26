@@ -1,5 +1,4 @@
-﻿using System.Xml.Linq;
-
+﻿
 namespace StructProgram;
 
 public class Struct

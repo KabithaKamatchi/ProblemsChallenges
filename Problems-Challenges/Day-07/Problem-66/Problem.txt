@@ -1,0 +1,17 @@
+﻿
+Create a C# program that asks the user for 10 real numbers and shows the arithmetic mean of the positive and negative numbers.
+
+Input :
+		3
+		-5
+		2
+		4
+		-3
+		1
+		8
+		-10
+		6
+		4
+Output :
+		Average numbers negatives is -6
+		Average numbers positives is 4

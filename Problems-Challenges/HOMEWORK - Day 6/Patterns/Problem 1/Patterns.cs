@@ -2,7 +2,7 @@
 
 namespace    PatternProgram
 {
-	public  class Patterns
+	public  class Patterns1
 	{
 		public static void Solution()
 		{

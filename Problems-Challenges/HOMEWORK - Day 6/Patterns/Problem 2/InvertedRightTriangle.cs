@@ -2,9 +2,9 @@
 
 namespace InvertedPattern
 {
-	public  class InvertedRightTriangle
+	public  class InvertedRightTriangle1
 	{
-		 public static void Solution()
+		 public static void Solution1()
 		{
 			Console.WriteLine("Enter the integer: ");
 			int nNum1 = int.Parse(Console.ReadLine());

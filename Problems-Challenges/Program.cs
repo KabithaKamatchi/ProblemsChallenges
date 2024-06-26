@@ -60,6 +60,11 @@ using ReverseProgram;
 using CondtionalOperatorProgram;
 using GiveChangeProgram;
 using StructProgram;
+using EvenProgram;
+using CalculatePositiveNegative;
+using MultidimensionProgram;
+//using TwoDimensionprogram;
+using MultiDArray;
 
 
 
@@ -127,8 +132,11 @@ using StructProgram;
 //LeftTriangle.Solution();
 //CharacterPyramid.Solution();
 //ReverseOrder.Solution();
-//EvenNumbers.Solution();
 //ConditionalOperator.Solution();
 //GiveChange.Solution();
 //Struct.Solution();
+//EvenNumbers1.Solution();
+//PositiveNegative1.Solution();
+//MultidimensionArray.Solution();
+TwoDimensionArray.Demo();
 
