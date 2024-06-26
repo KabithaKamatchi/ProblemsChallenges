@@ -57,6 +57,9 @@ using HollowSquarePattern;
 using LeftTrianglePattern;
 using CharacterPyramidPattern;
 using ReverseProgram;
+using CondtionalOperatorProgram;
+using GiveChangeProgram;
+using StructProgram;
 
 
 
@@ -124,4 +127,8 @@ using ReverseProgram;
 //LeftTriangle.Solution();
 //CharacterPyramid.Solution();
 //ReverseOrder.Solution();
-EvenNumbers.Solution();
+//EvenNumbers.Solution();
+//ConditionalOperator.Solution();
+//GiveChange.Solution();
+//Struct.Solution();
+
