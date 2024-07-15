@@ -1,0 +1,9 @@
+﻿
+ 74.Create a C# program that serves as a calculator with the possibility of adding, subtracting, multiplying or dividing.
+
+You should analyze the Main parameters to get the input of the exercise.
+
+Input :
+		2 x 2
+Output:
+			4

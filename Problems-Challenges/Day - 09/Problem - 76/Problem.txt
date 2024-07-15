@@ -1,0 +1,16 @@
+﻿
+76.Create a C# program that implements a function called FindMinMax that receives three parameters, an array of real numbers and two real numbers.
+
+You must request 5 real numbers from the user to create the data array.
+
+The function will calculate the minimum and maximum values ??of the array of real numbers. Send the parameters by reference.
+
+Input
+		5
+		8
+		9
+		4
+		3
+Output
+		3
+		9

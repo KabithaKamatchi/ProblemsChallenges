@@ -1,0 +1,15 @@
+﻿
+75.Create a new version of the program Main parameter calculator where you can return the following error codes from Main:
+
+
+
+	Return 1 if the total parameters are different from 3.
+	Return 2 if the second parameter is not a valid arithmetic sign (+, -, x, *, /).
+	Return 3 if the first or third parameter is not a valid number.
+	Return 0 if everything is correct.
+
+
+	Input:
+			2 x 2
+	Output:
+			4
